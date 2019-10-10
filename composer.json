@@ -1,0 +1,17 @@
+{
+    "name": "massfice/car-tester",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Massfice",
+            "email": "adrian.marian.tomasz.larysz@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Massfice\\CarTester\\": "src/"
+      }
+    },
+    "require": {}
+}
